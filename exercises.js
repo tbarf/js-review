@@ -1,4 +1,4 @@
-/*Hey Prepstars!!!  By now, you should have a good understanding of the basics of Javascript. 
+/*Hey Prepstars!!!  By now, you should have a good understanding of the basics of Javascript.
 
 The following exercises will be a good review of the materials we covered in class. Run node in your terminal to test your code.
 
@@ -8,6 +8,13 @@ Now, unleash your coding beast!
 
 /*1.  Variables with a String as their value.
 Declare variables named yourName, neighborName, teacherName.  Console log each variable.*/
+
+var yourName = "Travis";
+console.log(yourName);
+var neighborName = "Oscar";
+console.log(neighborName);
+var teacherName = "Vic";
+console.log(yourName);
 
 /*2. Variable with a Number as their value.
 Declare variables named numberOfFloorsBurjKhalifa, TokyoOlympicsYear. Please assign the actual data for each variable.
@@ -21,18 +28,18 @@ Declare variables named completedCodingChallenge, traveledToSpace.  Console log 
 
 /*5.  Variables with Array for its value.
 Declare a variable named japanPrefectures and assign the value of any 5 prefectures in Japan.
-Console log the variable 
+Console log the variable
 Console log the value at index 1.
 Console log the value at index 3.*/
 
 /*6.  Variable with Array for its value.
-Declare a variable named planets and assign the value of each planet in our solar system, in the order of distance from the sun.  
+Declare a variable named planets and assign the value of each planet in our solar system, in the order of distance from the sun.
 Console log the variable
 Console log "Earth" using the index position
 Console log "Uranus" using the index position*/
 
 /*7. Variables with Array for its value.
-Declare a variable named india and assign the value of 3 popular tourist attractions.  
+Declare a variable named india and assign the value of 3 popular tourist attractions.
 Console log the variable.*/
 
 /*8. Adding new elements to an array.
@@ -42,7 +49,7 @@ Add another popular tourist attraction to the india variable from position 1 of 
 /*9. Removing the last element from an array.
 Using the same india variable, remove the last element from the array. Console log the variable. */
 
-/*10. Removing an element from an array into a new array. 
+/*10. Removing an element from an array into a new array.
 Removethe first two elements in the snacks array and return a new array.
 Console log the new variable. */
 
@@ -91,9 +98,9 @@ console log the object*/
                   pinku     => 'pink'
                   murasaki  => 'purple'
 
-   isJapanese => true              
+   isJapanese => true
 
-console log the object */ 
+console log the object */
 
 /*16. As the general manager for the DevLeague Prep Beer Pong Team, your job is to select the starting players from the roster array. Create two variables, Ateam and Bteam and assign each an empty array. You will then assigned players that have an even number index position to the Ateam and odd number index position to the Bteam. Let the games begin! Console log the results.*/
 
@@ -119,7 +126,7 @@ This function takes in a number parameter age and returns a Boolean value true o
 
 /*22.  Declare a function named firstReverse which takes a single parameter str.  This function will take a string parameter being passed in and return the string in reverse order.*/
 
-/*23. Declare a function named letterCap which takes a single parameter str. This function will capitalize the first letter of the string you pass in to invoke the function. 
+/*23. Declare a function named letterCap which takes a single parameter str. This function will capitalize the first letter of the string you pass in to invoke the function.
 */
 
-/*24. Declare a function named longestWord which takes a single parameter str. This function will return the longest word in the string when you invoke this function.*/ 
+/*24. Declare a function named longestWord which takes a single parameter str. This function will return the longest word in the string when you invoke this function.*/
